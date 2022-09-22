@@ -4,6 +4,11 @@
 > Example 1
 
 ![alt text](./Intesity/intensity1.png)
+> Segment in 3 intenstiy region
+- low -> #CCE5FF
+- medium -> #3399ff
+- high -> #003366
+
 
 > Example 2
 
