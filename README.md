@@ -4,7 +4,7 @@
 > Example 1
 
 ![alt text](./Intesity/intensity1.png)
-> Segment in 3 intenstiy region
+> Segment 3 intenstiy region
 - low -> #CCE5FF
 - medium -> #3399ff
 - high -> #003366
@@ -30,8 +30,8 @@ Convert the Image to Normal Distribution
 ![alt text](./Intesity/transform2.png)
 
 ## Future Improvement
-- Add a Threeshold value which can be change to different standard deviation from the mean.
-- Add a Degree of Segmentation so the image can be segment on more than 3 number of intensity region.
+- Adding a Threeshold value which can be change to different standard deviation from the mean.
+- Adding a Degree of Segmentation so the image can be segment on more than 3 number of intensity region.
 
 
 
